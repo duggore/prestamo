@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_DatosTrabajador" value="name:codigo;datatype:int,name:nombre;datatype:string,name:a_paterno;datatype:string,name:a_materno;datatype:string" />
+	<infoitem key="UD_Clientes" value="name:rfc;datatype:string,name:nombre;datatype:string,name:paterno;datatype:string,name:materno;datatype:string,name:direccion;datatype:string,name:fecha_nac;datatype:date,name:celular;datatype:int,name:telefono;datatype:int" />
+</info>

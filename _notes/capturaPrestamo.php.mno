@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_CapturaPrestamo" value="name:catorcena;datatype:int,name:folio;datatype:int,name:fkEmpleado;datatype:int,name:fecha;datatype:date,name:cantPrestamo;datatype:real,name:intereses;datatype:real,name:descxCatorcena;datatype:real,name:desc_diarxcat;datatype:real,name:numdescuentos;datatype:int,name:total;datatype:real,name:aval;datatype:string,name:diraval;datatype:string,name:fechapago;datatype:date" />
+</info>
